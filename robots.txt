@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iimiegheer.21ido.com/sitemap.xml
